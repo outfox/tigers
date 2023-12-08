@@ -1,0 +1,23 @@
+{
+  "name": "blue.tiger.unity",
+  "displayName": "Tiger",
+  "version": "0.9.0",
+  "unity": "2020.1",
+  "description": "A versatile set of game dev tools, from data channels and state management, maths libraries, and an audio library.",
+  "type": "library",
+  "keywords": [
+    "Audio",
+    "Maths",
+    "Events"
+  ],
+  "hideInEditor": false,
+  "documentationUrl": "https://github.com/jeffreylanters/unity-tweens",
+  "changelogUrl": "https://github.com/jeffreylanters/unity-tweens/releases",
+  "licensesUrl": "https://github.com/jeffreylanters/unity-tweens/blob/master/LICENSE.md",
+  "repository": "https://github.com/jeffreylanters/unity-tweens.git",
+  "author": {
+    "name": "Tiger Blue",
+    "email": "unity@tiger.blue",
+    "url": "https://github.com/thygrrr"
+  }
+}
