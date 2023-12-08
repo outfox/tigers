@@ -56,7 +56,7 @@ namespace Tiger.Math
         }
     }
 
-    public static partial class MathExtensions
+    public static partial class MathEx
     {
         /// <summary>
         /// Unity.Mathematics style variant of UnityEngine.Vector3's ProjectOnPlane.
